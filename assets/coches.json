@@ -1,0 +1,52 @@
+[
+    {
+        "marca": "Renault",
+        "modelo": "Twingo",
+        "imagen": "car1.png"
+    },
+    {
+        "marca": "Citro\u00ebn",
+        "modelo": "C5",
+        "imagen": "car2.png"
+    },
+    {
+        "marca": "Ford",
+        "modelo": "Focus",
+        "imagen": "car3.png"
+    },
+    {
+        "marca": "Porsche",
+        "modelo": "Carrera",
+        "imagen": "car4.png"
+    },
+    {
+        "marca": "Ferrari",
+        "modelo": "F340",
+        "imagen": "car5.png"
+    },
+    {
+        "marca": "Renault",
+        "modelo": "Twingo",
+        "imagen": "car1.png"
+    },
+    {
+        "marca": "Citro\u00ebn",
+        "modelo": "C5",
+        "imagen": "car2.png"
+    },
+    {
+        "marca": "Ford",
+        "modelo": "Focus",
+        "imagen": "car3.png"
+    },
+    {
+        "marca": "Porsche",
+        "modelo": "Carrera",
+        "imagen": "car4.png"
+    },
+    {
+        "marca": "Ferrari",
+        "modelo": "F340",
+        "imagen": "car5.png"
+    }
+]
